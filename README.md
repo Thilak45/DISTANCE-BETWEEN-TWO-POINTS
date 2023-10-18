@@ -30,4 +30,4 @@ print(f"{bridge_length}")
 ![output3](output3.png)
 
 ### RESULT:
-Thus the he python program for distance-bettween-two-points is excuted successfully.
+Thus the python program for distance-bettween-two-points is excuted successfully.
